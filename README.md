@@ -1,5 +1,5 @@
 # monit-tw-agent
-Monitoring tw-agent with monit, automatically restart the systemd service `tw-agent` if it's inactive
+Monitoring tw-agent with [monit](https://mmonit.com/monit/), automatically restart the systemd service `tw-agent` if it's inactive
 
 **File locations**
 - monit configuration `/etc/monit/conf.d/check_tw_agent.conf`
